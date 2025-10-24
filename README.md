@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/emma-gillespie-115526297" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emma-gillespie-115526297" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@duck-in-shell" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="duck-in-shell" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@duck-in-shell" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="duck-in-shell" height="30" width="40" /></a>
 </p>
 <!--
 <h3 align="left">Languages and Tools:</h3>
