@@ -12,6 +12,7 @@
   <a href="https://tryhackme.com/p/whiteR4V3N" target="_blank">
     <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tryhackme logo"  />
   </a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=white-r4v3n.white-r4v3n&left_text=Guests"  />
 </div>
 
 ###
@@ -34,20 +35,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=white-r4v3n&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/white-r4v3n/white-r4v3n/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=white-r4v3n.white-r4v3n&left_text=Guests"  />
-</div>
-
-###
